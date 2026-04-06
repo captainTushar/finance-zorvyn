@@ -6,7 +6,7 @@ This project provides a FastAPI backend for managing financial transactions with
 ## 2. Setup Instructions
 1. Clone the repository and move into the project directory:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/captainTushar/finance-zorvyn.git
 cd finance_backend
 ```
 2. Create and activate a virtual environment (recommended).
